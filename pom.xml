@@ -9,5 +9,6 @@
 	<version>1.0-SNAPSHOT</version>
 	<modules>
 		<module>shiro-test</module>
+		<module>shiro-action</module>
 	</modules>
 </project>
